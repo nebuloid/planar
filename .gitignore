@@ -27,4 +27,6 @@ Planar-csharp.sln
 
 Planar.sln
 
+Library/*
+
 ProjectSettings/ProjectVersion.txt
